@@ -1,0 +1,29 @@
+[
+   {
+      "question": "The polynomial regression models can be used when, the relation between response and explainatory variables is:",
+      "qid": 1,
+      "option_a": "linear",
+      "option_b": "curvilinear",
+      "option_c": "",
+      "option_d": "",
+      "correct_option": "b"
+   },
+   {
+      "question": "The equation, y = &beta;<sub>0</sub> + &beta;<sub>1</sub>x + &beta;<sub>2</sub>x<sup>2</sup> + &epsilon;  gives the:",
+      "qid": 2,
+      "option_a": "3<sup>rd</sup> order polynomial regression model in x",
+      "option_b": " first order polynomial regression model in x",
+      "option_c": "2<sup>nd</sup> order polynomial regression model in x",
+      "option_d": "none of the above",
+      "correct_option": "c"
+   },
+   {
+      "question": "For the model, y = &beta;<sub>0</sub> + &beta;<sub>1</sub>x + &beta;<sub>2</sub>x<sup>2</sup> + &epsilon;",
+      "qid": 3,
+      "option_a": "the coefficient &beta;<sub>1</sub> is the quadratic effect parameter",
+      "option_b": "the coefficient &beta;<sub>2</sub> is the linear effect parameter",
+      "option_c": "the coefficient &beta;<sub>2</sub> is the quadratic effect parameter",
+      "option_d": "the coefficient &beta;<sub>0</sub> is the quadratic effect parameter",
+      "correct_option": "c"
+   }
+]
