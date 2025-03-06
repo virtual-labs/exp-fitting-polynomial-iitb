@@ -1,1 +1,1 @@
-## Experiment name
+## 3H Regression: fitting a polynomial

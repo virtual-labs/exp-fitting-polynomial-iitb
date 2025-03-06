@@ -1,0 +1,29 @@
+[
+   {
+      "question": "In the polynomial regression model, the error term &epsilon; is,",
+      "qid": 1,
+      "option_a": "normally distributed with E(&epsilon;) = 0",
+      "option_b": "normally distributed with E(&epsilon;) = 1",
+      "option_c": "normally distributed with E(&epsilon;) = &beta;<sub>0</sub> + &beta;<sub>1</sub>",
+      "option_d": "none of the above",
+      "correct_option": "a"
+   },
+   {
+      "question": "The technique used in model building of polynomial regression models is",
+      "qid": 2,
+      "option_a": "forward selection procedure",
+      "option_b": "backward elimination procedure",
+      "option_c": "both of the above",
+      "option_d": "none of the above",
+      "correct_option": "c"
+   },
+   {
+      "question": "A second order polynomial in two variables is termed as:",
+      "qid": 3,
+      "option_a": "regression plane",
+      "option_b": "regression line",
+      "option_c": "response surface",
+      "option_d": "none of the above",
+      "correct_option": "c"
+   }
+]
